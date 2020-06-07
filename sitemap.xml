@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>http://www.lightningunlimited.com</loc>
+        <image:image>
+            <image:loc>http://www.lightningunlimited.comimages/lightning.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.lightningunlimited.comimages/logomain.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.lightningunlimited.comimages/mv.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.lightningunlimited.comimages/stationery.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.lightningunlimited.comimages/vinyl-album-art.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www.lightningunlimited.comimages/chd.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>http://www.lightningunlimited.com/about.htm</loc>
+
+    </url>
+    <url>
+        <loc>http://www.lightningunlimited.com/faq.htm</loc>
+
+    </url>
+    <url>
+        <loc>http://www.lightningunlimited.com/terms-and-conditions.htm</loc>
+
+    </url>
+    <url>
+        <loc>http://www.lightningunlimited.com/privacy-policy.htm</loc>
+    </url>
+</urlset>
