@@ -310,7 +310,7 @@ a:visited {
     100%  {left: 0; top:0px;}
 }
 
-.logomain p, .set {
+.logomain p, .set1 {
   letter-spacing: 0;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
@@ -1287,10 +1287,14 @@ and (orientation : portrait) {
         margin-top: 7px;
     }
     
+.set1 {
+	display: none;
+	}
+	
     .set {
         margin-top: 5vw;
         margin-bottom: 5vw;
-        font-size: 9.3vw;
+        font-size: 9.5vw;
     }
     
     .work {
