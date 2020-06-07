@@ -1290,7 +1290,7 @@ and (orientation : portrait) {
     .set {
         margin-top: 5vw;
         margin-bottom: 5vw;
-        font-size: 9.5vw;
+        font-size: 8.5 !important;
     }
     
     .work {
@@ -1488,7 +1488,6 @@ and (orientation : portrait) {
     
     .set {
         margin-top: 10px;
-        font-size: 2vw;
     }
     
     .work {
