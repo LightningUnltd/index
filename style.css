@@ -1287,14 +1287,11 @@ and (orientation : portrait) {
         margin-top: 7px;
     }
     
-.set1 {
-	display: none;
-	}
 	
     .set {
         margin-top: 5vw;
         margin-bottom: 5vw;
-        font-size: 9.5vw;
+        font-size: 9vw;
     }
     
     .work {
