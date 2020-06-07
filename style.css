@@ -1290,7 +1290,7 @@ and (orientation : portrait) {
     .set {
         margin-top: 5vw;
         margin-bottom: 5vw;
-        font-size: 9.5vw;
+        font-size: 9.3vw;
     }
     
     .work {
@@ -1705,7 +1705,7 @@ and (orientation : landscape) {
     .set {
         margin-top: 5vw;
         margin-bottom: 5vw;
-        font-size: 9.6vw;
+        font-size: 9.8vw;
     }
     
     .contact {
